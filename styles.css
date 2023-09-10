@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+
+/* Estilos para a página da carteira de identidade */
+#identidade {
+    background-color: #f7f7f7;
+    border: 2px solid #aaa;
+    border-radius: 10px;
+    padding: 19px;
+    max-width: 325px;
+    margin: 1 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#identidade img {
+    width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
+    margin-right: 20px; /* Espaço entre a imagem e os dados */
+    border: 2px solid #aaa;
+    border-radius: 5px;
+}
+
+#identidade p {
+    margin: 0;
+    font-size: 14px;
+    display: block; /* Exibe os elementos de parágrafo um embaixo do outro */
+}
+
+#identidade strong {
+    font-weight: bold;
+}
+
+/* Estilos para o link de voltar */
+a {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #007bff;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Estilos para a página do boletim de notas */
+#notas {
+    margin-top: 20px;
+}
