@@ -1,6 +1,20 @@
 - <code>Descrição do Projeto</code>
 - Este repositório contém códigos HTML e CSS para criar duas páginas da web simples: uma página de "Carteira de Identidade" e uma página de "Boletim de Notas". Cada parte do código e seu propósito são explicados a seguir:<br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - <code>Página de Carteira de Identidade (index.html)</code><br>
 - `<!DOCTYPE html>`: Declara o documento como um documento HTML5.
 - `<html lang="pt-BR">`: Define o idioma principal do documento como português do Brasil.
