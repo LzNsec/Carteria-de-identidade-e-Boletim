@@ -10,7 +10,7 @@
 - `<link rel="stylesheet" href="styles.css">`: Inclui um arquivo de estilo externo.
 
 - <code>Página de Boletim de Notas (boletim.html)</code>
-- `<!DOCTYPE html>: Declara o documento como um documento HTML5.
+- `<!DOCTYPE html>`: Declara o documento como um documento HTML5.
 - `<html lang="pt-BR">`: Define o idioma principal do documento como português do Brasil.
 - `<head>`: Contém metadados, como codificação de caracteres e título da página.
 - `<meta charset="UTF-8">`: Define a codificação de caracteres como UTF-8.
